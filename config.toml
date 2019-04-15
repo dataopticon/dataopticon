@@ -28,9 +28,9 @@ googleAnalytics = "UA-XXXXXXXX-X"
     themeColor = "#FFC300"
 
 [params.logos]
-    jumbo = "/images/logos/dataopticon.jpg"
-    header = "/images/logos/dataopticon.jpg"
-    footer = "/images/logos/dataopticon.jpg"
+    jumbo = "/images/logos/DataOpticon.svg"
+    header = "/images/logos/DataOpticon.svg"
+    footer = "/images/logos/DataOpticon.svg"
 
 #[menu]
 #[[menu.main]]
