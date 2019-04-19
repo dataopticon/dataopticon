@@ -4,7 +4,7 @@ share:
 
 follow:
   - name: twitter
-    url: https://twitter.com/devfesttoulouse
+    url: https://twitter.com/search?q=%23dataOpticon
  
 content:
   - title: footer_about
