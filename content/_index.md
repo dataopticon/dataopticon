@@ -13,7 +13,7 @@ menu:
 ## September 4th, 2019
 ### Microsoft Reactor, London
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="" target="_blank">Register now</a>
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://www.eventbrite.com/e/dataopticon-tickets-60620116400?aff=website" target="_blank">Register now</a>
 
 {{% /jumbo %}}
 
