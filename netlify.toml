@@ -18,11 +18,3 @@ command =  "hugo -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
 command =  "hugo -b $DEPLOY_PRIME_URL"
-
-[[redirects]]
-  from = "/*"
-  to = "https://www.eventbrite.co.uk/e/dataopticon-tickets-60620116400"
-
-[[redirects]]
-  from = "localhost:1313"
-  to = "https://www.eventbrite.co.uk/e/dataopticon-tickets-60620116400"
